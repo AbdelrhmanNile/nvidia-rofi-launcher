@@ -1,6 +1,6 @@
 # INFO
 a rofi script for those with NVIDIA dedicated graphic cards alongside an integrated gpu. <br/>
-just a rofi launcher utalizing nvidia optimus with PRIME render offload. <br/>
+just a rofi launcher utilizing nvidia optimus with PRIME render offload. <br/>
 
 # DEPENDENCIES
 - a system with 2 gpu's, the second gpu is NVIDIA, DUH.
