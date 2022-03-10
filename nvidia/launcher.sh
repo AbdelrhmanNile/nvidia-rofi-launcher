@@ -6,7 +6,7 @@
 # >> Created and tested on : rofi 1.6.0-1
 
 theme="style"
-dir="$HOME/.config/rofi/launchers/nene"
+dir="$HOME/.config/rofi/launchers/nvidia"
 
 # dark
 ALPHA="#00000000"
